@@ -1,6 +1,6 @@
 {
   "name": "waita",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wait for n milliseconds then continue",
   "main": "index.js",
   "scripts": {
