@@ -1,0 +1,29 @@
+{
+  "name": "waita",
+  "version": "1.0.0",
+  "description": "Wait for n milliseconds then continue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dherault/waita.git"
+  },
+  "keywords": [
+    "wait",
+    "time",
+    "continue",
+    "script",
+    "npx"
+  ],
+  "author": "David Hérault <dherault@gmail.com> (https://github.com/dherault)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dherault/waita/issues"
+  },
+  "homepage": "https://github.com/dherault/waita#readme",
+  "bin": {
+    "waita": "index.js"
+  }
+}
