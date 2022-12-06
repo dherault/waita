@@ -1,6 +1,6 @@
 # waita
 
-Wait for n milliseconds then continue.
+Wait for n milliseconds then continue
 
 ## Usage
 
